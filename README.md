@@ -8,7 +8,7 @@ In my career, I've developed various backend services, including Telegram bots a
 Contact me on Telegram for work proposals or any questions.
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YaroslavOgnevoy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ognevoy.devmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ya.ognevoy@gmail.com)
 
 ## Contributing
 
