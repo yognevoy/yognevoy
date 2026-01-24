@@ -1,8 +1,8 @@
 ## Hello there :wave:
 
-My name is Yaroslav Ognevoy. I'm a passionate backend web developer focused on creating efficient and scalable applications. With over two years of experience in software development, I specialize in building robust backend services using PHP, Python, and Go.
+My name is Yaroslav Ognevoy. I'm a Backend Developer with 3+ years of experience in web development. I build backend systems and RESTful services, handling databases, integrations, and background processes, using PHP, Python, and Go.
 
-In my career, I've developed various backend services, including Telegram bots and backend systems for existing CRM platforms. My expertise includes working with ORM, message queues, and AWS services to ensure high performance and reliability.
+Working with modern PHP frameworks, relational databases, and API-based architectures.
 
 ## Social media
 Contact me on Telegram for work proposals or any questions.
