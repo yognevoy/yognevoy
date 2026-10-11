@@ -30,5 +30,3 @@ Feel free to reach out about work or any questions.
 [![Gmail](https://img.shields.io/badge/Email-Gmail-informational?style=flat&logo=gmail&color=D14836)](mailto:ya.ognevoy@gmail.com)
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-informational?style=flat&logo=telegram&color=26A5E4)](https://t.me/YaroslavOgnevoy)
 [![dev.to](https://img.shields.io/badge/Blog-dev.to-informational?style=flat&logo=devdotto&color=0A0A0A)](https://dev.to/yognevoy/)
-
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/yognevoy?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
