@@ -7,7 +7,7 @@ AI-native: applying LLMs and agentic coding tools to automate routine work and s
 - Contributor to [laravel/ai](https://github.com/laravel/ai), the official Laravel AI SDK;
 - Maintainer of [getyourcv](https://github.com/yognevoy/getyourcv), a resume builder with AI-assisted editing;
 - Maintainer of [claude-village](https://github.com/yognevoy/claude-village), which turns Claude Code sessions into a pixel-art RTS.
-- Author of [pitstop](https://github.com/yognevoy/pitstop), an open-source Claude Code plugin for codebase maintenance.
+- Maintainer of [pitstop](https://github.com/yognevoy/pitstop), an open-source Claude Code plugin for codebase maintenance.
 
 More in my [repositories](https://github.com/yognevoy?tab=repositories).
 
